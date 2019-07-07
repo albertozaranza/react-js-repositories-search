@@ -1,10 +1,10 @@
 # ReactJS - Repositories search
 
-## Search for repository developed with ReactJS
+## A simple ReactJS application to search repositories
 
-Creation of an application using ReactJS.
-In this application the portal is able to search for existing repositories in GitHub. You can also add it to your favorites list to know more details about it.
+Creating an application using ReactJS.
+In this application the user is able to search for existing repositories in GitHub. You can also add it to your favorites list for more details about it.
 
-![alt text](https://github.com/albertozaranza/react-js-repositories-search/blob/master/assets/screenshot01.png)
+![alt text](https://github.com/albertozaranza/react-js-repositories-search/blob/master/src/assets/screenshot01.png)
 
-![alt text](https://github.com/albertozaranza/react-js-repositories-search/blob/master/assets/screenshot02.png)
+![alt text](https://github.com/albertozaranza/react-js-repositories-search/blob/master/src/assets/screenshot02.png)
