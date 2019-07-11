@@ -1,6 +1,6 @@
 # ReactJS - Repositories search
 
-## A simple ReactJS application to search repositories
+## A simple ReactJS application to search GitHub's repositories
 
 Creating an application using ReactJS.
 In this application the user is able to search for existing repositories in GitHub. You can also add it to your favorites list for more details about it.
